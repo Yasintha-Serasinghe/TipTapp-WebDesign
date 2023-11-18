@@ -5,7 +5,8 @@
 </br>
 
 ### Demo
-![tiptap](https://github.com/Yasintha-Serasinghe/TipTapp-WebDesign/assets/150212148/a734154a-25f2-4153-931f-5b3fed2de742.png)
+
+![home](https://github.com/Yasintha-Serasinghe/TipTapp-WebDesign/assets/150212148/3c0fc7d8-6a76-4eed-a5f5-1d592372119b)
 
 
 ### This web design incorporates the following technologies and libraries:
