@@ -4,7 +4,7 @@ function NavBar() {
   return (
     <div>
       <div
-        class="navbar scroll-smooth sticky"
+        class="navbar scroll-smooth sticky z-10"
         style={{ backgroundColor: "#070324" }}
       >
         <div class="navbar-start">
